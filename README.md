@@ -1,7 +1,7 @@
-This is one of the task given for us when I was doing my MCA.
+This is one of the task given for us when I was doing my degree
 
-Leaky bucket is a concept which comes under networking
+You can refer the above link for the understanding of leaky bucket : https://www.geeksforgeeks.org/leaky-bucket-algorithm/
 
-I could not found a code for the particular problem in online(in 2020)
+We were given a customized problem which had no solution on internet
 
 So I thought of uploading it
